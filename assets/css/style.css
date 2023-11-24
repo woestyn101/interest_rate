@@ -1,0 +1,14 @@
+body {
+   text-align: center;
+}
+
+.questions {
+    display: flex;
+    flex-direction: column;
+    background-color: beige;
+    
+}
+
+.questions p {
+    margin-top: 15px;
+}
